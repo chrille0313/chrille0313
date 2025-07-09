@@ -1,18 +1,20 @@
 ## Hi there 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=chrille0313&theme=github_dark_dimmed&rank_icon=github" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chrille0313&theme=github_dark_dimmed&layout=compact&langs_count=8&card_width=320" />
-</a>
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=chrille0313"
-</a> -->
+<table>
+  <tr>
+    <td>
+      <img height="200" src="https://github-readme-stats.vercel.app/api?username=chrille0313&theme=github_dark_dimmed&bg_color=00000000&rank_icon=github&hide_border=true&include_all_commits=true" />
+      <br />
+      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=chrille0313&theme=github_dark_dimmed&bg_color=00000000&layout=compact&langs_count=8&card_width=450&hide_border=true" />
+    </td>
+    <td>
+      <img height="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=chrille0313&hide_border=true&layout=compact" />
+    </td>
+  </tr>
+</table>
 
+  
 <!--
-**chrille0313/chrille0313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
