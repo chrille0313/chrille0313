@@ -8,7 +8,7 @@
       <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=chrille0313&theme=github_dark_dimmed&bg_color=00000000&layout=compact&langs_count=8&card_width=450&hide_border=true" />
     </td>
     <td>
-      <img height="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=chrille0313&hide_border=true&layout=compact&langs_count=24" />
+      <img height="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=chrille0313&hide_border=true&layout=compact&langs_count=26" />
     </td>
   </tr>
 </table>
